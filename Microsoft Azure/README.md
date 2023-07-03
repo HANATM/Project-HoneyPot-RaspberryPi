@@ -12,6 +12,7 @@ on Azure resources using commands.</br>
 - The Azure Resource Manager templates, which are JSON files that define the resources and
 configurations for your VMs and other Azure resources.</br>
 
+
 <p align="center">
    <img src="Images/Microsoft Azure Deployment.jpeg" width="500" height="400">
    <img src="Images/Microsoft Azure final configuration.jpeg" width="500" height="400">
