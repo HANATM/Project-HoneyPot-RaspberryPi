@@ -1,6 +1,5 @@
-- **Deployment of Microsoft Azure**</br>
-Deployment of the azure cloud virtual machine is the process of creating and configuring a virtual
-machine (VM) in Azure that runs a specific operating system and applications. . Azure provides various
+<h1 center="align">Deployement of Microsoft Azure to host our project components</h1>
+Deployment of the azure cloud virtual machine is the process of creating and configuring a virtual machine (VM) in Azure that runs a specific operating system and applications. . Azure provides various
 options and tools to deploy virtual machines in Azure, such as:
 - The Azure portal, which is a browser-based user interface that allows you to create and manage VMs
 and their associated resources.
