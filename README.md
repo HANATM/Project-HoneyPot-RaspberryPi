@@ -5,6 +5,8 @@
 <h1 center="align">Project laboratory (behind the scenes)</h1>
 <p align="center">
   <img src="Images/Home-lab-for-the-project.jpg" width="300" height="300">
+   <img src="Images/project-lab2.jpg" width="300" height="300">
+    <img src="Images/project-lab-the-raspberry.jpg" width="300" height="300">
 
 
  <h1 center="align">Project architecturet</h1>
