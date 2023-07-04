@@ -12,5 +12,5 @@ The primary purpose of a honeypot is to monitor and learn about attack technique
  <h1 center="align">Cowrie HoneyPot</h1>
  Cowrie is a honeypot software that emulates a vulnerable SSH and Telnet server. It is designed to capture and log the activities of attackers attempting to gain unauthorized access to the system. Cowrie is written in Python and is widely used in the cybersecurity community for research, analysis, and threat intelligence gathering.
 
-<h1 center="align">Dispatching Cowrie output to an ELK stack </h1>
- -[**How to send Cowrie output to an ELK stack**](https://cowrie.readthedocs.io/en/latest/elk/README.html)</br>
+
+ [How to send Cowrie output to an ELK stack](https://cowrie.readthedocs.io/en/latest/elk/README.html)</br>
