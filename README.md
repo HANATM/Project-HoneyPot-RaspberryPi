@@ -2,6 +2,10 @@
  Implementation of a Real Time Honeypot System for the Detection and Prevention of Systems Attacks
 > ### [Project Report](https://github.com/HANATM/Project1-Real-Time-Honeypot-System-for-the-Detection-and-Prevention-of-System-Attacks/blob/main/Report)</br>
 
+<h1 center="align">Project laboratory (behind the scenes)</h1>
+<p align="center">
+  <img src="Images/Home-lab-for-the-project.jpg" width="600" height="400">
+
 
  <h1 center="align">Project architecturet</h1>
 <p align="center">
