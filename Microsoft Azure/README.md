@@ -12,10 +12,10 @@ on Azure resources using commands.</br>
 - The Azure Resource Manager templates, which are JSON files that define the resources and
 configurations for your VMs and other Azure resources.</br>
 
- <h3 center="align">Cloud basics </h3>
+<h3 center="align">Cloud Basics</h3>
 <p align="center">
-   <img src="Images/cloud-types.PNG" width="500" height="400">  
-   <img src="Images/cloud-paas-saas-iaas.PNG" width="500" height="400"> 
+  <img src="Images/cloud-types.PNG" width="600" height="400">
+  <img src="Images/cloud-paas-saas-iaas.PNG" width="600" height="400">
 </p>
 
 
