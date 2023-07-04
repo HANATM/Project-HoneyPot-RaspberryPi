@@ -38,7 +38,7 @@
 
 <h1 center="align">Shots from Our project presentation , 05/06/2023 , ENSA KHOURIBGA  </h1>
 <p align="center">
-  <img src="Images/Project-Presentation-Day1.jpg" width="300" height="200">
-  <img src="Images/Project-Presentation-Day2.jpg" width="300" height="200">
+  <img src="Images/Project-Presentation-Day1.jpg" width="400" height="400">
+  <img src="Images/Project-Presentation-Day2.jpg" width="400" height="400">
   
 </p>
