@@ -9,9 +9,10 @@
     <img src="Images/project-lab-the-raspberry.jpg" width="300" height="300">
 
 
- <h1 center="align">Project architecturet</h1>
+ <h1 center="align">Project architecture </h1>
 <p align="center">
   <img src="Images/Achritecture.png" width="600" height="400">
+ Printed Architecture : 
   <img src="Images/project architecture printed.jpg" width="400" height="400">
 </p>
 
