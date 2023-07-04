@@ -11,7 +11,7 @@
 
  <h1 center="align">Project architecture </h1>
 <p align="center">
-  <img src="Images/Achritecture.png" width="600" height="400">
+  <img src="Images/Achritecture.png" width="600" height="400"></br>
  Printed Architecture : 
   <img src="Images/project architecture printed.jpg" width="400" height="400">
 </p>
