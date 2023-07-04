@@ -9,7 +9,7 @@
 
  <h1 center="align">Project architecturet</h1>
 <p align="center">
-  <img src="Images/Achritecture.png" width="600" height="400">
+  <img src="Images/Achritecture.png" width="450" height="400">
   <img src="Images/project architecture printed.jpg" width="400" height="400">
 </p>
 
