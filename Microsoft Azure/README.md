@@ -14,7 +14,7 @@ configurations for your VMs and other Azure resources.</br>
 
 <h3 center="align">Cloud Basics</h3>
 <p align="center">
-  <img src="Project-HoneyPot-RaspberryPi/Images/cloud-computing-types.PNG" width="600" height="400">
+  <img src="/Project-HoneyPot-RaspberryPi/Images/cloud-computing-types.PNG" width="600" height="400">
   <img src="Project-HoneyPot-RaspberryPi/Images/cloud-paas-saas-iaas.PNG" width="600" height="400">
 </p>
 
