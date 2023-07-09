@@ -14,13 +14,13 @@ configurations for your VMs and other Azure resources.</br>
 
 <h3 center="align">Cloud Basics</h3>
 <p align="center">
-  <img src="Images/cloud-computing-types.PNG" width="600" height="400">
-  <img src="Images/cloud-paas-saas-iaas.PNG" width="600" height="400">
+  <img src="Project-HoneyPot-RaspberryPi/Images/cloud-computing-types.PNG" width="600" height="400">
+  <img src="Project-HoneyPot-RaspberryPi/Images/cloud-paas-saas-iaas.PNG" width="600" height="400">
 </p>
 
 
  <h3 center="align">Deployment screenshots </h3>
 <p align="center">
-   <img src="Images/Microsoft Azure Deployment.jpeg" width="500" height="400">
-   <img src="Images/Microsoft Azure final configuration.jpeg" width="500" height="400">
+   <img src="Project-HoneyPot-RaspberryPi/Images/Microsoft Azure Deployment.jpeg" width="500" height="400">
+   <img src="Project-HoneyPot-RaspberryPi/Images/Microsoft Azure final configuration.jpeg" width="500" height="400">
 </p>
